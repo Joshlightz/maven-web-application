@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.84.49.142:8081/repository/paypal-releases/</url>
+	      <name>Joshlightz</name>
+	      <url>http://34.224.89.81:8081/repository/iphy-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.84.49.142:8081/repository/paypal-snapshots/</url>
+	      <name>Joshlightz</name>
+	      <url>http://34.224.89.81:8081/repository/iphy-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
